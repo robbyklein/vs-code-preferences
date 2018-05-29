@@ -2,7 +2,7 @@
     "editor.detectIndentation": false,
     "workbench.startupEditor": "newUntitledFile",
     "git.enabled": false,
-    "prettier.printWidth": 140,
+    "prettier.printWidth": 90,
     "prettier.tabWidth": 4,
     "workbench.iconTheme": "vscode-icons",
     "prettier.trailingComma": "es5",
